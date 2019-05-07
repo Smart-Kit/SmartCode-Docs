@@ -1,0 +1,2 @@
+# SmartCode-Docs
+SmartCode docs
